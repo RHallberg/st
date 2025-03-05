@@ -1,3 +1,7 @@
+My personal build of ST with scrollback, alpha, and catppuccin latte color theme patched in. 
+
+Original: https://git.suckless.org/st/log.html
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
